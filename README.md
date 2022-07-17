@@ -13,4 +13,6 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 Reste à faire et identification pour la suite :
-Faire des appel sur l'api graphql pour obtenir une sorte de pagination pour appeler la suite de la liste des films
+- Faire des appel sur l'api graphql pour obtenir une sorte de pagination pour appeler la suite de la liste des films
+
+
