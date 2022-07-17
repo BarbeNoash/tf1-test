@@ -15,5 +15,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Reste à faire et identification pour la suite :
 - Faire des appel sur l'api graphql pour obtenir une sorte de pagination pour appeler la suite de la liste des films
 - Mettre une architechure en place pour les components et pour les serivice d'appel api car tout est sur la même page
+- J'aurai bien aimé demander quelque question sur la gestion des donnée api sur graphQL car j'ai pas bien saisi les information sur le nom des produits qui me prait étrange, je recupère peut-etre la mauvaise donné mais du coup le name product n'est pas vraiment parlant
 
 
