@@ -17,6 +17,6 @@ Reste à faire et identification pour la suite :
 - Mettre une architechure en place pour les components et pour les serivice d'appel api car tout est sur la même page actuellement
 - J'aurai bien aimé demander quelque question sur la gestion des donnée api sur graphQL car j'ai pas bien saisi les information sur le nom des produits qui me prait étrange, je recupère peut-etre la mauvaise donné mais du coup le name product n'est pas vraiment parlant.
 - De mon coté avec le jeux de donnée actuel je suis obligé de faire 2 requete une sur image et une autre sur program pour tenter de récupérer tout les donnée a consomé
-- j'aurai vu comme évolution de tout baser sur un program et non pas une images, de ce fait le parsing des informations se plus intuitif
+- j'aurai vu comme évolution de tout baser sur un program et non pas une images, de ce fait le parsing des informations sera plus intuitif
 
 
